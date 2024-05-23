@@ -1,0 +1,110 @@
+body{
+    margin:0;
+    padding:0;
+    background-image:url("14.avif"); 
+    background-size:cover; 
+
+ 
+}
+
+.nav{
+    width:100%;
+    height:100px;
+    background-color:#333;
+    }
+
+.nav input{
+     position: relative;
+     bottom:40px;
+     left:40px;
+     border-radius:50px;
+     width:300px;
+     border-color: darkgreen;
+     background-color:darkgray;
+     padding:10px;
+   }
+
+.nav ul{
+    float:right;
+     
+}
+
+.nav ul li{
+      display: inline-block;
+      line-height:80px;
+      margin:0px 5px;
+      font-size:20px;
+      color:yellow;
+      padding: 7px 13px;
+      text-transform: uppercase;
+}
+
+li:hover{
+    text-decoration-line: underline;
+    text-decoration-color: aqua;
+    cursor: pointer;
+}
+
+p{  
+    font-size:50px;
+    color:darkolivegreen;
+    margin-left:250px;
+    text-decoration:underline;
+}
+
+
+
+.video1{
+    width:300px;
+    position: relative;
+    bottom:20px;
+    left:150px;
+     border-radius:20px;
+}
+
+
+.video2{
+    width:300px;
+    position: relative;
+    left:225px;
+    bottom:20px;
+    border-radius:20px;
+}
+
+.video3{
+    width:300px;
+    position: relative;
+    left:307px;
+    bottom:20px;
+    border-radius:20px;
+
+}
+
+
+
+.video4{
+    width:300px;
+    position: relative;
+    top:740px;
+    right:760px;
+    border-radius:20px;
+    
+
+}
+.video5{
+    width:300px;
+    position: relative;
+    top:200px;
+    left:540px;
+    border-radius:20px;
+
+}
+.video6{
+    width:300px;
+    position: relative;
+    top:200px;
+    left:620px;
+    border-radius:20px;
+
+}
+
